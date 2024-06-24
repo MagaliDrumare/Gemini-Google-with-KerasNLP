@@ -1,7 +1,7 @@
 # Gemini-
 
 
-### getting started with Gemini 
+### Getting started with Gemini 
 - https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
 
 ### Gemini avec Vertex AI 
