@@ -9,7 +9,8 @@ Gemma 2 released! Google just released the next iteration of its open LLM! Gemma
 - Gemma 2 Release : https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315
  
 ### Getting started with Gemini 
-- https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
+- Gemini :  https://deepmind.google/technologies/gemini/
+- Getting Started : https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
 
 ### Gemini avec Vertex AI 
 - Accès la console Google Cloud  : https://accounts.google.com/
