@@ -7,6 +7,8 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 
 Gemma 2 released! Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!
 - Gemma 2 Release : https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315
+- Démo : - https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
+
  
 ### Getting started with Gemini 
 - Gemini :  https://deepmind.google/technologies/gemini/
@@ -17,7 +19,6 @@ Gemma 2 released! Google just released the next iteration of its open LLM! Gemma
 - Créer un projet pour obtenir l'ID projet / lancer la console si nécessaire 
 - Rentrer ID du projet dans code Google Colab
 - Supprimer le projet dans la console Google Cloud 
-
 
 ### Gemma: Introducing new state-of-the-art open models
 -https://blog.google/technology/developers/gemma-open-models/
