@@ -29,7 +29,8 @@ Gemma 2 released! Google just released the next iteration of its open LLM! Gemma
 ### KerasNLP 
 The latest Keras 3 machine learning framework lets you write and run your code in JAX, Pytorch, or Tensorflow. Learn about Gemma, the large language model family of open models from Google. We will teach you basic and advanced LLM workflows, including chat generation, LoRA fine-tuning, model parallelism to train on large-scale infrastructure, style alignment, model surgery, and more.
 - https://youtu.be/TV7qCk1dBWA?feature=shared
-new Keras + Hugging Face integration: you can now load HF fine-tuned models through Keras, even if they have not been fine-tuned in Keras. As long as the architecture is implemented in KerasNLP, weights will be converted on the fly.
+
+New Keras + Hugging Face integration: you can now load HF fine-tuned models through Keras, even if they have not been fine-tuned in Keras. As long as the architecture is implemented in KerasNLP, weights will be converted on the fly.
 - https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing 
   
 
