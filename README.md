@@ -11,11 +11,11 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 - Démo : https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
 
 ### Gemma: Introducing new state-of-the-art open models
+- Tutorial Large language models with Keras : https://youtu.be/TV7qCk1dBWA?feature=shared
 - Accès à Gemma dans Kaagle : https://www.kaggle.com/models/google/gemma
 - Générer un jeton API dans Kaagle pour télécharger le modèle dans Google Colab : https://www.kaggle.com/settings
 - Dans Google Colab rubrique secrets mettre les éléments générer par l'API Kaagle KAGGLE_USERNAME : XXXXXXXXXXXX , KAGGLE_KEY: XXXXXXXXXXX (voir copie écran)
 - Chargement gemma_2b_en avec config Colab T4 GPU / memoire RAM élevée
-- Tutorial Large language models with Keras : https://youtu.be/TV7qCk1dBWA?feature=shared
 
 
 # Gemini 
