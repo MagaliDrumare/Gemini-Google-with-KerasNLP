@@ -40,6 +40,15 @@ New Keras + Hugging Face integration: you can now load HF fine-tuned models thro
 
 
  # 🚀  Tableau & Google Big Query
+### Tableau Cloud Trial :
+- https://www.tableau.com/fr-fr/products/trial
+### Google Cloud Platform :
+- https://cloud.google.com/gcp?hl=fr
+### Optimizations in the Tableau - Google BigQuery connector
+- https://youtu.be/ZISLmdBEbT4?feature=shared
+
+
+
 
   
 
