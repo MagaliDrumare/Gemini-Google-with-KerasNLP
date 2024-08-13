@@ -36,8 +36,10 @@ The latest Keras 3 machine learning framework lets you write and run your code i
 - https://youtu.be/TV7qCk1dBWA?feature=shared
 
 New Keras + Hugging Face integration: you can now load HF fine-tuned models through Keras, even if they have not been fine-tuned in Keras. As long as the architecture is implemented in KerasNLP, weights will be converted on the fly.
-- https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing 
-  
+- https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing
+
+
+ # 🚀  Tableau & Google Big Query
 
   
 
