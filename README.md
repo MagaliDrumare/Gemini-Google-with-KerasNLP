@@ -7,7 +7,7 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 - https://ai.google.dev/gemma?hl=fr
 - https://blog.google/technology/developers/gemma-open-models/
 
-### Gemma 2 released! - 24 june 2024
+### Gemma 2 released! - 24 June 2024
 Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!
 - Gemma 2 Release : https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315
 - Google releases Gemma 2 and it's IMPRESSIVE! : https://youtu.be/vJyCr2yPTQM?feature=shared
@@ -23,7 +23,7 @@ Google just released the next iteration of its open LLM! Gemma 2 comes in two si
 
 # 🚀  Gemini 
 
-### #MadeByGoogle ‘24: Keynote - 13 august 2024
+### #MadeByGoogle ‘24: Keynote - 13 August 2024
 Google is fully integrating AI into its products and services, particularly focusing on mobile devices with the introduction of the Gemini model. This AI model is designed to enhance user experience across various applications like Google Search, Gmail, Docs, and even the Android operating system.
 - https://www.youtube.com/live/N_y2tP9of8A?feature=shared
 
