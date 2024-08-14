@@ -5,8 +5,7 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 - https://ai.google.dev/gemma?hl=fr
 - https://blog.google/technology/developers/gemma-open-models/
 
-
-### Gemma 2 released! Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!- 24 juin 2024
+### Gemma 2 released! Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!- 24th june 2024
 - Gemma 2 Release : https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315
 - Google releases Gemma 2 and it's IMPRESSIVE! : https://youtu.be/vJyCr2yPTQM?feature=shared
 - Démo : https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
@@ -21,6 +20,10 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 
 # 🚀  Gemini 
 
+### #MadeByGoogle ‘24: Keynote - 13rd august 2024
+Google is fully integrating AI into its products and services, particularly focusing on mobile devices with the introduction of the Gemini model. This AI model is designed to enhance user experience across various applications like Google Search, Gmail, Docs, and even the Android operating system.
+- https://www.youtube.com/live/N_y2tP9of8A?feature=shared
+
 ### Getting started with Gemini 
 - Gemini :  https://deepmind.google/technologies/gemini/
 - Getting Started : https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
@@ -29,7 +32,6 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 - Accès la console Google Cloud  : https://accounts.google.com/
 - Créer un projet pour obtenir l'ID projet / lancer la console si nécessaire 
 - Rentrer ID du projet dans code Google Colab
-- Supprimer le projet dans la console Google Cloud 
 
 
 # 🚀  KerasNLP 
@@ -40,7 +42,7 @@ New Keras + Hugging Face integration: you can now load HF fine-tuned models thro
 - https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing
 
 
- # 🚀  Tableau & Google Big Query
+ # 🚀  Tableau Software & Google Big Query
 ### Tableau Cloud Trial :
 - https://www.tableau.com/fr-fr/products/trial
 ### Google Cloud Platform :
