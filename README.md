@@ -7,8 +7,8 @@ Large Language Models (LLMs) like Gemma have been shown to be effective at a var
 - https://ai.google.dev/gemma?hl=fr
 - https://blog.google/technology/developers/gemma-open-models/
 
-### Gemma 2 released! 
-Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!- 24th june 2024
+### Gemma 2 released! - 24 june 2024
+Google just released the next iteration of its open LLM! Gemma 2 comes in two sizes, 9B & 27B, trained on 13T tokens. Gemma 2 27B approaches Meta Llama 3 70B performance!
 - Gemma 2 Release : https://huggingface.co/collections/google/gemma-2-release-667d6600fd5220e7b967f315
 - Google releases Gemma 2 and it's IMPRESSIVE! : https://youtu.be/vJyCr2yPTQM?feature=shared
 - Démo : https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
