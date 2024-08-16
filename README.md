@@ -13,15 +13,12 @@ Google just released the next iteration of its open LLM! Gemma 2 comes in two si
 - Google releases Gemma 2 and it's IMPRESSIVE! : https://youtu.be/vJyCr2yPTQM?feature=shared
 - Démo : https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
 
-### Gemma: Introducing new state-of-the-art open models
-- Tutorial Large language models with Keras : https://youtu.be/TV7qCk1dBWA?feature=shared
-- Accès à Gemma dans Kaagle : https://www.kaggle.com/models/google/gemma
-- Générer un jeton API dans Kaagle pour télécharger le modèle dans Google Colab : https://www.kaggle.com/settings
-- Dans Google Colab rubrique secrets mettre les éléments générer par l'API Kaagle KAGGLE_USERNAME : XXXXXXXXXXXX , KAGGLE_KEY: XXXXXXXXXXX (voir copie écran)
-- Chargement gemma_2b_en avec config Colab T4 GPU / memoire RAM élevée
+### AI AGENTS - "The Future Is Agentic"
+- https://github.com/MagaliDrumare/Focus-on-AI-Agent/blob/main/README.md
+- AI Agent with Gemma Tutorial : https://www.kaggle.com/code/sitaberete/build-ai-agents-with-google-s-llm-gemma
 
 
-# 🚀  Gemini 
+# 🚀  Gemini & Vertax AI 
 
 ### #MadeByGoogle ‘24: Keynote - 13 August 2024
 Google is fully integrating AI into its products and services, particularly focusing on mobile devices with the introduction of the Gemini model. This AI model is designed to enhance user experience across various applications like Google Search, Gmail, Docs, and even the Android operating system.
@@ -31,15 +28,15 @@ Google is fully integrating AI into its products and services, particularly focu
 - Gemini :  https://deepmind.google/technologies/gemini/
 - Getting Started : https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/getting-started
 
-### Gemini avec Vertex AI 
-- Accès la console Google Cloud  : https://accounts.google.com/
-- Créer un projet pour obtenir l'ID projet / lancer la console si nécessaire 
-- Rentrer ID du projet dans code Google Colab
+### Gemini in Vertex AI & Model Garden 
+- Google Cloud Access  : https://accounts.google.com/
+- Create a project -> obtain an ID project
+- Google Vertex AI : https://cloud.google.com/vertex-ai?hl=fr
+- Google Model Garden : https://cloud.google.com/model-garden?hl=fr
 
-### Gemini API 
+### Gemini API on Google Colab 
 - Here you'll find a series of instructive and educational notebooks organized by topic areas :  https://colab.google/notebooks/?utm_medium=link&utm_campaign=gemini
 - Marketing Campaign : https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Market_a_Jet_Backpack.ipynb
-
 
 # 🚀  KerasNLP 
 The latest Keras 3 machine learning framework lets you write and run your code in JAX, Pytorch, or Tensorflow. Learn about Gemma, the large language model family of open models from Google. We will teach you basic and advanced LLM workflows, including chat generation, LoRA fine-tuning, model parallelism to train on large-scale infrastructure, style alignment, model surgery, and more.
@@ -47,6 +44,12 @@ The latest Keras 3 machine learning framework lets you write and run your code i
 
 New Keras + Hugging Face integration: you can now load HF fine-tuned models through Keras, even if they have not been fine-tuned in Keras. As long as the architecture is implemented in KerasNLP, weights will be converted on the fly.
 - https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing
+
+### Tutorial Large language models with Keras : https://youtu.be/TV7qCk1dBWA?feature=shared
+- Accès à Gemma dans Kaagle : https://www.kaggle.com/models/google/gemma
+- Générer un jeton API dans Kaagle pour télécharger le modèle dans Google Colab : https://www.kaggle.com/settings
+- Dans Google Colab rubrique secrets mettre les éléments générer par l'API Kaagle KAGGLE_USERNAME : XXXXXXXXXXXX , KAGGLE_KEY: XXXXXXXXXXX (voir copie écran dans Code)
+- Chargement gemma_2b_en avec config Colab T4 GPU / memoire RAM élevée
 
 
  # 🚀  Tableau Software & Google Big Query
