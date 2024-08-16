@@ -47,10 +47,10 @@ New Keras + Hugging Face integration: you can now load HF fine-tuned models thro
 - https://colab.research.google.com/drive/12_jhj36h5Ca_Le7jlU2PitFMBhQ83Si1?usp=sharing
 
 ### Tutorial Large language models with Keras : https://youtu.be/TV7qCk1dBWA?feature=shared
-- Accès à Gemma dans Kaagle : https://www.kaggle.com/models/google/gemma
-- Générer un jeton API dans Kaagle pour télécharger le modèle dans Google Colab : https://www.kaggle.com/settings
-- Dans Google Colab rubrique secrets mettre les éléments générer par l'API Kaagle KAGGLE_USERNAME : XXXXXXXXXXXX , KAGGLE_KEY: XXXXXXXXXXX (voir copie écran dans Code)
-- Chargement gemma_2b_en avec config Colab T4 GPU / memoire RAM élevée
+- Gemma dans Kaagle : https://www.kaggle.com/models/google/gemma
+- API Token for Kaagle to dowload the model in Google Colab : https://www.kaggle.com/settings
+- In Google Colab : KAGGLE_USERNAME : XXXXXXXXXXXX , KAGGLE_KEY: XXXXXXXXXXX (cf screenshot)
+- Use Computing configuration: Colab T4 GPU / memoire RAM élevée
 
 
  # 🚀  Tableau Software & Google Big Query
