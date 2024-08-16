@@ -36,6 +36,10 @@ Google is fully integrating AI into its products and services, particularly focu
 - Créer un projet pour obtenir l'ID projet / lancer la console si nécessaire 
 - Rentrer ID du projet dans code Google Colab
 
+### Gemini API 
+- Here you'll find a series of instructive and educational notebooks organized by topic areas :  https://colab.google/notebooks/?utm_medium=link&utm_campaign=gemini
+- Marketing Campaign : https://colab.research.google.com/github/google-gemini/cookbook/blob/main/examples/Market_a_Jet_Backpack.ipynb
+
 
 # 🚀  KerasNLP 
 The latest Keras 3 machine learning framework lets you write and run your code in JAX, Pytorch, or Tensorflow. Learn about Gemma, the large language model family of open models from Google. We will teach you basic and advanced LLM workflows, including chat generation, LoRA fine-tuning, model parallelism to train on large-scale infrastructure, style alignment, model surgery, and more.
