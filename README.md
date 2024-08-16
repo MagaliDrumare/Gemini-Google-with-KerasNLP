@@ -18,7 +18,7 @@ Google just released the next iteration of its open LLM! Gemma 2 comes in two si
 - AI Agent with Gemma Tutorial : https://www.kaggle.com/code/sitaberete/build-ai-agents-with-google-s-llm-gemma
 
 
-# 🚀  Gemini & Vertax AI 
+# 🚀  Gemini & Vertex AI 
 
 ### #MadeByGoogle ‘24: Keynote - 13 August 2024
 Google is fully integrating AI into its products and services, particularly focusing on mobile devices with the introduction of the Gemini model. This AI model is designed to enhance user experience across various applications like Google Search, Gmail, Docs, and even the Android operating system.
