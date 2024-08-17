@@ -60,7 +60,7 @@ New Keras + Hugging Face integration: you can now load HF fine-tuned models thro
 - https://cloud.google.com/gcp?hl=fr
 ### Looker opens semantic layer via new SQL Interface and connectors for Tableau & others - 15 August 2024
 - https://cloud.google.com/blog/products/business-intelligence/opening-up-the-looker-semantic-layer?hl=en
-### Optimizations in the Tableau - Google BigQuery connector
+### Optimization - Google BigQuery connector
 - https://youtu.be/ZISLmdBEbT4?feature=shared
 
 
