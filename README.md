@@ -1,6 +1,6 @@
 # Google Generative AI 
 
-### Google Generative AI Quiz : 
+### Google Generative AI video : 
 [![Watch the video](https://i9.ytimg.com/vi_webp/DOnCvg9bcUM/mqdefault.webp?v=66dea115&sqp=CPTA-rYG&rs=AOn4CLCBvlZdJCm7OyVm_DS3e3Dg3yylag)](https://youtu.be/DOnCvg9bcUM)
 
 ### Google Generative AI Quiz : 
