@@ -20,7 +20,7 @@ Google just released the next iteration of its open LLM! Gemma 2 comes in two si
 - Google releases Gemma 2 and it's IMPRESSIVE! : https://youtu.be/vJyCr2yPTQM?feature=shared
 - Démo : https://huggingface.co/spaces/huggingface-projects/gemma-2-9b-it
 
-### AI AGENTS - "The Future Is Agentic"
+### AI Agent with Gemma Tutorial
 - https://github.com/MagaliDrumare/Focus-on-AI-Agent/blob/main/README.md
 - AI Agent with Gemma Tutorial : https://www.kaggle.com/code/sitaberete/build-ai-agents-with-google-s-llm-gemma
 
